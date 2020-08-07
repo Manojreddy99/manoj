@@ -1,0 +1,60 @@
+body{
+    background:skyblue url(https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png)no-repeat scroll center;
+    background-image:center;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    top: 1000px;
+    font-size:medium;
+}
+table{
+    background: white;
+    position: absolute;
+    top: 730px;
+    left: 20px;
+}
+thead{
+    background: darkblue;
+    color: chartreuse;
+}
+fieldset {
+    background: white;
+}
+.nav{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+.p{
+    position: absolute;
+    left:20px;
+    top:250px;
+    right: 700px;
+}
+.h3{
+    color: red;
+    float: left;
+    position: absolute;
+    top: 680px;
+    left: 20px;
+}
+legend{
+    background: darkblue;
+    color: chartreuse;
+    padding: 5px 10px;
+}
+.fs1{
+    position: absolute;
+    width: 35%;
+    right: 20px;
+    top: 200px;
+}
+.fs2{
+    position:absolute;
+    width: 35%;
+    right: 20px;
+    top: 350px;
+}
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
